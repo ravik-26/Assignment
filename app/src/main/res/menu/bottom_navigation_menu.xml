@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/fragment1"
+        android:title="@string/fragment1"
+        android:icon="@drawable/ic_baseline_people_24" />
+
+    <item android:id="@+id/fragment2"
+        android:title="@string/fragment2"
+        android:icon="@drawable/ic_baseline_video_library_24" />
+
+    <item android:id="@+id/fragment3"
+        android:title="@string/fragment3"
+        android:icon="@drawable/ic_baseline_local_mall_24" />
+
+    <item android:id="@+id/fragment4"
+        android:title="@string/fragment4"
+        android:icon="@drawable/ic_baseline_add_circle_24" />
+
+</menu>
